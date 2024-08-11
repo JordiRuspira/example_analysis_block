@@ -1,0 +1,2463 @@
+{
+  "mev_node_to_node": {
+    "validator_mev_matches": {
+      "matches": [
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 11
+          },
+          "maker_order_subticks": 5154000000,
+          "maker_fee_ppm": -50,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1q869gyjwanxhw5xdgfg67pg3y8gjeuzth6u6zl"
+          },
+          "maker_order_subticks": 5155900000,
+          "maker_fee_ppm": -110,
+          "fill_amount": 2333000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx15u3dtsf4twdxttvy7850dkex7tcf3ps2y8wcuf"
+          },
+          "maker_order_subticks": 5156000000,
+          "maker_fee_ppm": -110,
+          "fill_amount": 2259000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1dax7t2529z8996579zuqdatv62wpsw89lv3apc"
+          },
+          "maker_order_subticks": 5156200000,
+          "maker_fee_ppm": -110,
+          "fill_amount": 2318000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx14dltc2w6y3dhf0naz8luglsvjt0vhvswm2j6d0"
+          },
+          "maker_order_subticks": 5160600000,
+          "maker_fee_ppm": -110,
+          "fill_amount": 19377000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx14dltc2w6y3dhf0naz8luglsvjt0vhvswm2j6d0"
+          },
+          "maker_order_subticks": 5189900000,
+          "maker_fee_ppm": -110,
+          "fill_amount": 48171000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx17vhycd0r2x79d9n84jytpjkvllv72za6da40ry"
+          },
+          "maker_order_subticks": 5238100000,
+          "maker_fee_ppm": -110,
+          "fill_amount": 2500000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx14dltc2w6y3dhf0naz8luglsvjt0vhvswm2j6d0"
+          },
+          "maker_order_subticks": 5238200000,
+          "maker_fee_ppm": -110,
+          "fill_amount": 49329000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1q869gyjwanxhw5xdgfg67pg3y8gjeuzth6u6zl"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx18p7nz5rqezkyscdz9pv9rchnsesjyjjyfe92t3"
+          },
+          "maker_order_subticks": 2277400000,
+          "maker_fee_ppm": -70,
+          "clob_pair_id": 1,
+          "fill_amount": 100000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1d06lgyy03spureacp933g3qc3wwuszaxjurk5w"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 12
+          },
+          "maker_order_subticks": 11714000000,
+          "maker_fee_ppm": -50,
+          "clob_pair_id": 5,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1d06lgyy03spureacp933g3qc3wwuszaxjurk5w"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "maker_order_subticks": 5164300000,
+          "maker_order_is_buy": true,
+          "maker_fee_ppm": 50,
+          "fill_amount": 206000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1d06lgyy03spureacp933g3qc3wwuszaxjurk5w"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 12
+          },
+          "maker_order_subticks": 11716000000,
+          "maker_fee_ppm": -50,
+          "clob_pair_id": 5,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1dax7t2529z8996579zuqdatv62wpsw89lv3apc"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 11
+          },
+          "maker_order_subticks": 5154300000,
+          "maker_fee_ppm": -50,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1d06lgyy03spureacp933g3qc3wwuszaxjurk5w"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx18p7nz5rqezkyscdz9pv9rchnsesjyjjyfe92t3"
+          },
+          "maker_order_subticks": 2277800000,
+          "maker_fee_ppm": -70,
+          "clob_pair_id": 1,
+          "fill_amount": 101000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1d06lgyy03spureacp933g3qc3wwuszaxjurk5w"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx18p7nz5rqezkyscdz9pv9rchnsesjyjjyfe92t3"
+          },
+          "maker_order_subticks": 2277800000,
+          "maker_fee_ppm": -70,
+          "clob_pair_id": 1,
+          "fill_amount": 102000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1ph7ek4yk82gdaw0r4yzluuchxwe96yrjdjq9wr"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx18p7nz5rqezkyscdz9pv9rchnsesjyjjyfe92t3"
+          },
+          "maker_order_subticks": 2278200000,
+          "maker_fee_ppm": -70,
+          "clob_pair_id": 1,
+          "fill_amount": 101000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 2
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 12
+          },
+          "maker_order_subticks": 11720000000,
+          "maker_fee_ppm": -50,
+          "clob_pair_id": 5,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx100l9m6g70j28g2tk3jj4plmge8vsmj6jdrlzhk",
+            "number": 1
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 11
+          },
+          "maker_order_subticks": 5156400000,
+          "maker_fee_ppm": -50,
+          "fill_amount": 1000000
+        }
+      ],
+      "liquidation_matches": []
+    },
+    "clob_mid_prices": [
+      {
+        "clob_pair": {
+          "id": 66,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 66 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1155231046
+      },
+      {
+        "clob_pair": {
+          "id": 77,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 77 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 540000000
+      },
+      {
+        "clob_pair": {
+          "id": 79,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 79 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1391500000
+      },
+      {
+        "clob_pair": {
+          "id": 22,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 22 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 508500000
+      },
+      {
+        "clob_pair": {
+          "id": 23,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 23 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 4574000000
+      },
+      {
+        "clob_pair": {
+          "id": 80,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 80 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1740928185
+      },
+      {
+        "clob_pair": {
+          "id": 91,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 91 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 651500000
+      },
+      {
+        "clob_pair": {
+          "id": 24,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 24 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 453500000
+      },
+      {
+        "clob_pair": {
+          "id": 41,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 41 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 667121478
+      },
+      {
+        "clob_pair": {
+          "id": 76,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 76 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1310500000
+      },
+      {
+        "clob_pair": {
+          "id": 3,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 3 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 3605500000
+      },
+      {
+        "clob_pair": {
+          "id": 5,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 5 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 11723000000
+      },
+      {
+        "clob_pair": {
+          "id": 52,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 52 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 965000000
+      },
+      {
+        "clob_pair": {
+          "id": 53,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 53 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 489500000
+      },
+      {
+        "clob_pair": {
+          "id": 105,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 105 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 5483096619
+      },
+      {
+        "clob_pair": {
+          "id": 121,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 121 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 3140500000
+      },
+      {
+        "clob_pair": {
+          "id": 36,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 36 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 8134000000
+      },
+      {
+        "clob_pair": {
+          "id": 37,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 37 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 4334500000
+      },
+      {
+        "clob_pair": {
+          "id": 87,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 87 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 749000000
+      },
+      {
+        "clob_pair": {
+          "id": 95,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 95 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 945544554
+      },
+      {
+        "clob_pair": {
+          "id": 18,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 18 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 799500000
+      },
+      {
+        "clob_pair": {
+          "id": 45,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 45 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1195224224
+      },
+      {
+        "clob_pair": {
+          "id": 57,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 57 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2718500000
+      },
+      {
+        "clob_pair": {
+          "id": 67,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 67 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 5150000000
+      },
+      {
+        "clob_pair": {
+          "id": 90,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 90 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1297759551
+      },
+      {
+        "clob_pair": {
+          "id": 14,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 14 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2926500000
+      },
+      {
+        "clob_pair": {
+          "id": 38,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 38 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2102000000
+      },
+      {
+        "clob_pair": {
+          "id": 62,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 62 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 846500000
+      },
+      {
+        "clob_pair": {
+          "id": 64,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 64 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 464500000
+      },
+      {
+        "clob_pair": {
+          "id": 103,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 103 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1924500000
+      },
+      {
+        "clob_pair": {
+          "id": 8,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 8 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 3031000000
+      },
+      {
+        "clob_pair": {
+          "id": 58,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 58 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 408240824
+      },
+      {
+        "clob_pair": {
+          "id": 50,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 50 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1129500000
+      },
+      {
+        "clob_pair": {
+          "id": 65,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 65 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1148500000
+      },
+      {
+        "clob_pair": {
+          "id": 112,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 112 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1463500000
+      },
+      {
+        "clob_pair": {
+          "id": 126,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 126 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 9045000000
+      },
+      {
+        "clob_pair": {
+          "id": 127,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 127 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2358255940
+      },
+      {
+        "clob_pair": {
+          "id": 27,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 27 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1112000000
+      },
+      {
+        "clob_pair": {
+          "id": 43,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 43 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 338000000
+      },
+      {
+        "clob_pair": {
+          "id": 39,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 39 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2187500000
+      },
+      {
+        "clob_pair": {
+          "id": 78,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 78 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2376000000
+      },
+      {
+        "clob_pair": {
+          "id": 56,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 56 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2307000000
+      },
+      {
+        "clob_pair": {
+          "id": 54,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 54 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1002000000
+      },
+      {
+        "clob_pair": {
+          "id": 55,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 55 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1209500000
+      },
+      {
+        "clob_pair": {
+          "id": 84,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 84 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1033500000
+      },
+      {
+        "clob_pair": {
+          "id": 25,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 25 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1159500000
+      },
+      {
+        "clob_pair": {
+          "id": 40,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 40 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 4248500000
+      },
+      {
+        "clob_pair": {
+          "id": 75,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 75 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 861000000
+      },
+      {
+        "clob_pair": {
+          "id": 82,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 82 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 897079415
+      },
+      {
+        "clob_pair": {
+          "id": 97,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 97 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2367500000
+      },
+      {
+        "clob_pair": {
+          "id": 10,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 10 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 8415000000
+      },
+      {
+        "clob_pair": {
+          "id": 73,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 73 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 70148905
+      },
+      {
+        "clob_pair": {
+          "id": 108,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 108 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 4493000000
+      },
+      {
+        "clob_pair": {
+          "id": 119,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 119 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 726172617
+      },
+      {
+        "clob_pair": {
+          "id": 122,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 122 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 5522500000
+      },
+      {
+        "clob_pair": {
+          "id": 48,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 48 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 6
+        },
+        "subticks": 5984417141
+      },
+      {
+        "clob_pair": {
+          "id": 102,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 102 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2423500000
+      },
+      {
+        "clob_pair": {
+          "id": 46,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 46 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2340500000
+      },
+      {
+        "clob_pair": {
+          "id": 47,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 47 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1641500000
+      },
+      {
+        "clob_pair": {
+          "id": 93,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 93 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 799159831
+      },
+      {
+        "clob_pair": {
+          "id": 94,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 94 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1424000000
+      },
+      {
+        "clob_pair": {
+          "id": 101,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 101 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 4767000000
+      },
+      {
+        "clob_pair": {
+          "id": 114,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 114 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1938587717
+      },
+      {
+        "clob_pair": {
+          "id": 11,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 11 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 4361000000
+      },
+      {
+        "clob_pair": {
+          "id": 21,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 21 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1450500000
+      },
+      {
+        "clob_pair": {
+          "id": 117,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 117 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 797959591
+      },
+      {
+        "clob_pair": {
+          "id": 124,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 124 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 7394839483
+      },
+      {
+        "clob_pair": {
+          "id": 113,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 113 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 4072500000
+      },
+      {
+        "clob_pair": {
+          "id": 63,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 63 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 893500000
+      },
+      {
+        "clob_pair": {
+          "id": 74,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 74 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2908000000
+      },
+      {
+        "clob_pair": {
+          "id": 109,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 109 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1843463692
+      },
+      {
+        "clob_pair": {
+          "id": 17,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 17 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1860000000
+      },
+      {
+        "clob_pair": {
+          "id": 33,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 33 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 449306449
+      },
+      {
+        "clob_pair": {
+          "id": 44,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 44 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 6
+        },
+        "subticks": 7765776577
+      },
+      {
+        "clob_pair": {
+          "id": 49,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 49 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 3891778355
+      },
+      {
+        "clob_pair": {
+          "id": 92,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 92 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1641000000
+      },
+      {
+        "clob_pair": {
+          "id": 26,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 26 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 961000000
+      },
+      {
+        "clob_pair": {
+          "id": 42,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 42 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1045000000
+      },
+      {
+        "clob_pair": {
+          "id": 29,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 29 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2131000000
+      },
+      {
+        "clob_pair": {
+          "id": 35,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 35 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 7026000000
+      },
+      {
+        "clob_pair": {
+          "id": 51,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 51 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1443500000
+      },
+      {
+        "clob_pair": {
+          "id": 83,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 83 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1523500000
+      },
+      {
+        "clob_pair": {
+          "id": 6,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 6 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2973000000
+      },
+      {
+        "clob_pair": {
+          "id": 20,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 20 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 3581000000
+      },
+      {
+        "clob_pair": {
+          "id": 98,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 98 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 5761500000
+      },
+      {
+        "clob_pair": {
+          "id": 123,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 123 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 435987197
+      },
+      {
+        "clob_pair": {
+          "Metadata": { "perpetual_clob_metadata": {} },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 100000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 5156900000
+      },
+      {
+        "clob_pair": {
+          "id": 28,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 28 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 62063500000
+      },
+      {
+        "clob_pair": {
+          "id": 81,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 81 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1362522504
+      },
+      {
+        "clob_pair": {
+          "id": 107,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 107 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 887000000
+      },
+      {
+        "clob_pair": {
+          "id": 13,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 13 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 4976000000
+      },
+      {
+        "clob_pair": {
+          "id": 32,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 32 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 4557000000
+      },
+      {
+        "clob_pair": {
+          "id": 111,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 111 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 4974766207
+      },
+      {
+        "clob_pair": {
+          "id": 60,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 60 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 496464532
+      },
+      {
+        "clob_pair": {
+          "id": 104,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 104 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2405240524
+      },
+      {
+        "clob_pair": {
+          "id": 106,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 106 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1686500000
+      },
+      {
+        "clob_pair": {
+          "id": 115,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 115 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 3567000000
+      },
+      {
+        "clob_pair": {
+          "id": 120,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 120 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1115223044
+      },
+      {
+        "clob_pair": {
+          "id": 30,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 30 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 11298500000
+      },
+      {
+        "clob_pair": {
+          "id": 59,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 59 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 286000000
+      },
+      {
+        "clob_pair": {
+          "id": 99,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 99 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1583000000
+      },
+      {
+        "clob_pair": {
+          "id": 100,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 100 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2133500000
+      },
+      {
+        "clob_pair": {
+          "id": 19,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 19 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1639000000
+      },
+      {
+        "clob_pair": {
+          "id": 89,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 89 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1985500000
+      },
+      {
+        "clob_pair": {
+          "id": 12,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 12 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 3886000000
+      },
+      {
+        "clob_pair": {
+          "id": 16,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 16 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 3293000000
+      },
+      {
+        "clob_pair": {
+          "id": 110,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 110 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2972594518
+      },
+      {
+        "clob_pair": {
+          "id": 116,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 116 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1085000000
+      },
+      {
+        "clob_pair": {
+          "id": 125,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 125 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1964500000
+      },
+      {
+        "clob_pair": {
+          "id": 15,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 15 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 11975500000
+      },
+      {
+        "clob_pair": {
+          "id": 85,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 85 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1912000000
+      },
+      {
+        "clob_pair": {
+          "id": 70,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 70 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 9455000000
+      },
+      {
+        "clob_pair": {
+          "id": 72,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 72 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1715500000
+      },
+      {
+        "clob_pair": {
+          "id": 86,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 86 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2843000000
+      },
+      {
+        "clob_pair": {
+          "id": 31,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 31 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 4910000000
+      },
+      {
+        "clob_pair": {
+          "id": 69,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 69 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 323500000
+      },
+      {
+        "clob_pair": {
+          "id": 118,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 118 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2405000000
+      },
+      {
+        "clob_pair": {
+          "id": 2,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 2 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 8549000000
+      },
+      {
+        "clob_pair": {
+          "id": 4,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 4 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1900500000
+      },
+      {
+        "clob_pair": {
+          "id": 9,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 9 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 5277500000
+      },
+      {
+        "clob_pair": {
+          "id": 61,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 61 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1130000000
+      },
+      {
+        "clob_pair": {
+          "id": 68,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 68 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1762322436
+      },
+      {
+        "clob_pair": {
+          "id": 88,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 88 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1500120291
+      },
+      {
+        "clob_pair": {
+          "id": 96,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 96 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1256251250
+      },
+      {
+        "clob_pair": {
+          "id": 1,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 1 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 100000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 2279350000
+      },
+      {
+        "clob_pair": {
+          "id": 7,
+          "Metadata": { "perpetual_clob_metadata": { "perpetual_id": 7 } },
+          "step_base_quantums": 1000000,
+          "subticks_per_tick": 1000000,
+          "quantum_conversion_exponent": -9,
+          "status": 1
+        },
+        "subticks": 1832500000
+      }
+    ],
+    "bp_mev_matches": {
+      "matches": [
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 11
+          },
+          "maker_order_subticks": 5154000000,
+          "maker_fee_ppm": -50,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1q869gyjwanxhw5xdgfg67pg3y8gjeuzth6u6zl"
+          },
+          "maker_order_subticks": 5155900000,
+          "maker_fee_ppm": -110,
+          "fill_amount": 2333000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx15u3dtsf4twdxttvy7850dkex7tcf3ps2y8wcuf"
+          },
+          "maker_order_subticks": 5156000000,
+          "maker_fee_ppm": -110,
+          "fill_amount": 2259000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1dax7t2529z8996579zuqdatv62wpsw89lv3apc"
+          },
+          "maker_order_subticks": 5156200000,
+          "maker_fee_ppm": -110,
+          "fill_amount": 2318000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx17vhycd0r2x79d9n84jytpjkvllv72za6da40ry"
+          },
+          "maker_order_subticks": 5238100000,
+          "maker_fee_ppm": -110,
+          "fill_amount": 2500000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5281600000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 2625000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5282900000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 2625000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5291900000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 2625000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5293200000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 2625000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5302200000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 2625000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5303500000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 2625000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1vzjze6ptt6ytd9uzwxg8rqtac8e44l783u6zst"
+          },
+          "maker_order_subticks": 5311100000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 7750000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5312500000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 3750000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5313800000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 3750000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5322800000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 3750000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5324100000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 3750000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5333100000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 4875000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5334400000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 4875000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1kqlxpm2732g2zu7hddv7jwdctd227xhjqugkhn"
+          },
+          "maker_order_subticks": 5342800000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 20000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5343500000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 4875000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5344700000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 4875000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5353800000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 4875000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5355000000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 4875000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1jsy8z2jkytcg0tdeu73k3zdf9ncugw9ez8hklp"
+          },
+          "maker_order_subticks": 5359600000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 310000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1a3kmc66m3ftay4jd048vm32dt20v4jdyuekh9u"
+          },
+          "maker_order_subticks": 5361000000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 7765000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1a3kmc66m3ftay4jd048vm32dt20v4jdyuekh9u"
+          },
+          "maker_order_subticks": 5361100000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 7750000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5364100000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 5625000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1h859sg4eq74v3zjp9ywe6ekurdyjakdw43lvt0"
+          },
+          "maker_order_subticks": 5365300000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 5625000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1lg573vmcyee66h2808379lfcum0uedyzn2cku7"
+          },
+          "taker_fee_ppm": 400,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1a3kmc66m3ftay4jd048vm32dt20v4jdyuekh9u"
+          },
+          "maker_order_subticks": 5368100000,
+          "maker_fee_ppm": 100,
+          "fill_amount": 2655000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1q869gyjwanxhw5xdgfg67pg3y8gjeuzth6u6zl"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx18p7nz5rqezkyscdz9pv9rchnsesjyjjyfe92t3"
+          },
+          "maker_order_subticks": 2277400000,
+          "maker_fee_ppm": -70,
+          "clob_pair_id": 1,
+          "fill_amount": 100000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1d06lgyy03spureacp933g3qc3wwuszaxjurk5w"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "maker_order_subticks": 5164300000,
+          "maker_order_is_buy": true,
+          "maker_fee_ppm": 50,
+          "fill_amount": 11247000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1d06lgyy03spureacp933g3qc3wwuszaxjurk5w"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 12
+          },
+          "maker_order_subticks": 11714000000,
+          "maker_fee_ppm": -50,
+          "clob_pair_id": 5,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 11
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "maker_order_subticks": 5164300000,
+          "maker_order_is_buy": true,
+          "maker_fee_ppm": 50,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1d06lgyy03spureacp933g3qc3wwuszaxjurk5w"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 12
+          },
+          "maker_order_subticks": 11716000000,
+          "maker_fee_ppm": -50,
+          "clob_pair_id": 5,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 11
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "maker_order_subticks": 5164300000,
+          "maker_order_is_buy": true,
+          "maker_fee_ppm": 50,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 11
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "maker_order_subticks": 5164300000,
+          "maker_order_is_buy": true,
+          "maker_fee_ppm": 50,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1dax7t2529z8996579zuqdatv62wpsw89lv3apc"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx18p7nz5rqezkyscdz9pv9rchnsesjyjjyfe92t3"
+          },
+          "maker_order_subticks": 2277800000,
+          "maker_fee_ppm": -70,
+          "clob_pair_id": 1,
+          "fill_amount": 101000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1dax7t2529z8996579zuqdatv62wpsw89lv3apc"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx18p7nz5rqezkyscdz9pv9rchnsesjyjjyfe92t3"
+          },
+          "maker_order_subticks": 2277800000,
+          "maker_fee_ppm": -70,
+          "clob_pair_id": 1,
+          "fill_amount": 102000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1ph7ek4yk82gdaw0r4yzluuchxwe96yrjdjq9wr"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx18p7nz5rqezkyscdz9pv9rchnsesjyjjyfe92t3"
+          },
+          "maker_order_subticks": 2278200000,
+          "maker_fee_ppm": -70,
+          "clob_pair_id": 1,
+          "fill_amount": 101000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 11
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "maker_order_subticks": 5164300000,
+          "maker_order_is_buy": true,
+          "maker_fee_ppm": 50,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 2
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 12
+          },
+          "maker_order_subticks": 11720000000,
+          "maker_fee_ppm": -50,
+          "clob_pair_id": 5,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 11
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "maker_order_subticks": 5164300000,
+          "maker_order_is_buy": true,
+          "maker_fee_ppm": 50,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 11
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "maker_order_subticks": 5164300000,
+          "maker_order_is_buy": true,
+          "maker_fee_ppm": 50,
+          "fill_amount": 1000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx1fj8080sqa8t55j8jgxgefj4ryudsq9xyt3cthh"
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus"
+          },
+          "maker_order_subticks": 5164300000,
+          "maker_order_is_buy": true,
+          "maker_fee_ppm": 50,
+          "fill_amount": 8330000000
+        },
+        {
+          "taker_order_subaccount_id": {
+            "owner": "dydx100l9m6g70j28g2tk3jj4plmge8vsmj6jdrlzhk",
+            "number": 1
+          },
+          "taker_fee_ppm": 250,
+          "maker_order_subaccount_id": {
+            "owner": "dydx1axt2hrqgyhtkqss0v599afekexcq58uwxetunn",
+            "number": 11
+          },
+          "maker_order_subticks": 5156900000,
+          "maker_fee_ppm": -50,
+          "fill_amount": 1000000
+        }
+      ],
+      "liquidation_matches": []
+    },
+    "proposal_receive_time": 12
+  },
+  "mev_datapoint": {
+    "block_height": 22064978,
+    "chain_id": "dydx-mainnet-1",
+    "volume_quote_quantums": {
+      "0": 658197537700,
+      "1": 920231600,
+      "10": 0,
+      "100": 0,
+      "101": 0,
+      "102": 0,
+      "103": 0,
+      "104": 0,
+      "105": 0,
+      "106": 0,
+      "107": 0,
+      "108": 0,
+      "109": 0,
+      "11": 0,
+      "110": 0,
+      "111": 0,
+      "112": 0,
+      "113": 0,
+      "114": 0,
+      "115": 0,
+      "116": 0,
+      "117": 0,
+      "118": 0,
+      "119": 0,
+      "12": 0,
+      "120": 0,
+      "121": 0,
+      "122": 0,
+      "123": 0,
+      "124": 0,
+      "125": 0,
+      "126": 0,
+      "127": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "2": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0,
+      "26": 0,
+      "27": 0,
+      "28": 0,
+      "29": 0,
+      "3": 0,
+      "30": 0,
+      "31": 0,
+      "32": 0,
+      "33": 0,
+      "35": 0,
+      "36": 0,
+      "37": 0,
+      "38": 0,
+      "39": 0,
+      "4": 0,
+      "40": 0,
+      "41": 0,
+      "42": 0,
+      "43": 0,
+      "44": 0,
+      "45": 0,
+      "46": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "5": 35150000,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 0,
+      "55": 0,
+      "56": 0,
+      "57": 0,
+      "58": 0,
+      "59": 0,
+      "6": 0,
+      "60": 0,
+      "61": 0,
+      "62": 0,
+      "63": 0,
+      "64": 0,
+      "65": 0,
+      "66": 0,
+      "67": 0,
+      "68": 0,
+      "69": 0,
+      "7": 0,
+      "70": 0,
+      "72": 0,
+      "73": 0,
+      "74": 0,
+      "75": 0,
+      "76": 0,
+      "77": 0,
+      "78": 0,
+      "79": 0,
+      "8": 0,
+      "80": 0,
+      "81": 0,
+      "82": 0,
+      "83": 0,
+      "84": 0,
+      "85": 0,
+      "86": 0,
+      "87": 0,
+      "88": 0,
+      "89": 0,
+      "9": 0,
+      "90": 0,
+      "91": 0,
+      "92": 0,
+      "93": 0,
+      "94": 0,
+      "95": 0,
+      "96": 0,
+      "97": 0,
+      "98": 0,
+      "99": 0
+    },
+    "mev": {
+      "0": 17483270000,
+      "1": 199051,
+      "10": 0,
+      "100": 0,
+      "101": 0,
+      "102": 0,
+      "103": 0,
+      "104": 0,
+      "105": 0,
+      "106": 0,
+      "107": 0,
+      "108": 0,
+      "109": 0,
+      "11": 0,
+      "110": 0,
+      "111": 0,
+      "112": 0,
+      "113": 0,
+      "114": 0,
+      "115": 0,
+      "116": 0,
+      "117": 0,
+      "118": 0,
+      "119": 0,
+      "12": 0,
+      "120": 0,
+      "121": 0,
+      "122": 0,
+      "123": 0,
+      "124": 0,
+      "125": 0,
+      "126": 0,
+      "127": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "2": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0,
+      "26": 0,
+      "27": 0,
+      "28": 0,
+      "29": 0,
+      "3": 0,
+      "30": 0,
+      "31": 0,
+      "32": 0,
+      "33": 0,
+      "35": 0,
+      "36": 0,
+      "37": 0,
+      "38": 0,
+      "39": 0,
+      "4": 0,
+      "40": 0,
+      "41": 0,
+      "42": 0,
+      "43": 0,
+      "44": 0,
+      "45": 0,
+      "46": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "5": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 0,
+      "55": 0,
+      "56": 0,
+      "57": 0,
+      "58": 0,
+      "59": 0,
+      "6": 0,
+      "60": 0,
+      "61": 0,
+      "62": 0,
+      "63": 0,
+      "64": 0,
+      "65": 0,
+      "66": 0,
+      "67": 0,
+      "68": 0,
+      "69": 0,
+      "7": 0,
+      "70": 0,
+      "72": 0,
+      "73": 0,
+      "74": 0,
+      "75": 0,
+      "76": 0,
+      "77": 0,
+      "78": 0,
+      "79": 0,
+      "8": 0,
+      "80": 0,
+      "81": 0,
+      "82": 0,
+      "83": 0,
+      "84": 0,
+      "85": 0,
+      "86": 0,
+      "87": 0,
+      "88": 0,
+      "89": 0,
+      "9": 0,
+      "90": 0,
+      "91": 0,
+      "92": 0,
+      "93": 0,
+      "94": 0,
+      "95": 0,
+      "96": 0,
+      "97": 0,
+      "98": 0,
+      "99": 0
+    },
+    "identifier": "mev_council"
+  }
+}
