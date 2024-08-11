@@ -26,7 +26,3 @@ C14FF12CEDBC109DF7A7FAA39A28DE0E0600445E39C1DF7DF9532E2D11EC8E14 by dydx1lg.., b
 None of them, however, appear on the "place_order" or block scanners. 
 
 Finally, we've got the result of "query_4_possible_better_matches", where we've checked possible better matches for the buy order. However, the two ones proposed by our node (via seller dydx14dltc2w6y3dhf0naz8luglsvjt0vhvswm2j6d0) are not shown there. Trying to find those ones, we've seen "query_5" and "query_6", where the first one shows that, for the hours prior to the block, dydx14dlc (our potential seller to our buyer) did not have any order submitted with "good til block" later or equal to our block. Query 6, on the other hand, shows a handful of trades which make sense with those expected by our node, but all of them have "good til block" prior than our block, so it makes sense for the BP to not have matched them.
-
-
-
-# example_analysis_block
